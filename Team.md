@@ -1,46 +1,46 @@
 ## Github Users
 
-- AbrarSyed
-- Actuarius
-- agaricusb
-- amadornes
-- asherslab
-- AterAnimAvis
-- bloodmc
-- boni
-- bs2609
-- ChampionAsh5357
-- covers1624
-- cpw
-- DaemonUmbra
-- diesieben07
-- dpeter99
-- gigaherz
-- ichttt
-- illyohs
-- tamashenning
-- JDLogic
-- kashike
-- KingLemming
-- LatvianModder
-- LexManos
-- marchermans
-- marvin-roesch
-- Matyrobbry
-- md-5
-- mezz
-- OvermindDL1
-- pupnewfster
-- RainWarrior
-- ravenbuilder934
-- sciwhiz12
-- Shadows-Of-Fire
-- SizableShrimp
-- Tahg
-- Curle
-- tterrag1098
-- Unbekannt1998
-- Unnoen
+- AbrarSyed         (Perms: Write to Documentation)
+- Actuarius         (Perms: Write to 21 Repos)
+- agaricusb         (Perms: None)
+- amadornes         (Perms: None)
+- asherslab         (Perms: Triage)
+- AterAnimAvis      (Perms: Triage)
+- bloodmc           (Perms: None)
+- boni              (Perms: Write to Documentation)
+- bs2609            (Perms: None)
+- ChampionAsh5357   (Perms: Triage)
+- covers1624        (Perms: Write to 21 Repos)
+- cpw               (Perms: Owner)
+- DaemonUmbra       (Perms: Triage, Write to Private)
+- diesieben07       (Perms: Triage)
+- dpeter99          (Perms: Triage)
+- gigaherz          (Perms: Write to 20 Repos)
+- ichttt            (Perms: Triage)
+- illyohs           (Perms: Triage, Write to Private, Owner to Scorge)
+- tamashenning      (Perms: Write to some Infrastructure)
+- JDLogic           (Perms: Write to 15 Repos)
+- kashike           (Perms: Triage, Write to Private)
+- KingLemming       (Perms: None)
+- LatvianModder     (Perms: Write to some Infrastructure)
+- LexManos          (Perms: Owner)
+- marchermans       (Perms: Write to 15 Repos)
+- marvin-roesch     (Perms: Write to Documentation, Web)
+- Matyrobbrt        (Perms: Triage)
+- md-5              (Perms: None)
+- mezz              (Perms: Triage, Write to some Toolchain)
+- OvermindDL1       (Perms: None)
+- pupnewfster       (Perms: Triage, Write to Private)
+- RainWarrior       (Perms: Write to 15 Repos)
+- ravenbuilder934   (Perms: Triage)
+- sciwhiz12         (Perms: Triage, Write to Private, Write to Documentation)
+- Shadows-Of-Fire   (Perms: Triage)
+- SizableShrimp     (Perms: Write to Toolchain, Backend)
+- Tahg              (Perms: None)
+- Curle             (Perms: Owner)
+- tterrag1098       (Perms: Write to 30 Repos)
+- Unbekannt1998     (Perms: Triage)
+- Unnoen            (Perms: Triage, Write to Private)
 
 ## Discord Users
 
