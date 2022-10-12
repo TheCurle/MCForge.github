@@ -1,5 +1,5 @@
 ## Github Users
-
+```
 - AbrarSyed         (Perms: Write to Documentation)
 - Actuarius         (Perms: Write to 21 Repos)
 - agaricusb         (Perms: None)
@@ -41,7 +41,7 @@
 - tterrag1098       (Perms: Write to 30 Repos)
 - Unbekannt1998     (Perms: Triage)
 - Unnoen            (Perms: Triage, Write to Private)
-
+```
 ## Discord Users
 
 ### Retrogradle
