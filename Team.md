@@ -2,13 +2,13 @@
 ```
 - AbrarSyed         (Perms: Write to Documentation)
 - Actuarius         (Perms: Write to 21 Repos)
-- agaricusb         (Perms: None)
+- agaricusb !       (Perms: None)
 - amadornes         (Perms: None)
 - asherslab         (Perms: Triage)
 - AterAnimAvis      (Perms: Triage)
 - bloodmc           (Perms: None)
 - boni              (Perms: Write to Documentation)
-- bs2609            (Perms: None)
+- bs2609 !          (Perms: None)
 - ChampionAsh5357   (Perms: Triage)
 - covers1624        (Perms: Write to 21 Repos)
 - cpw               (Perms: Owner)
@@ -25,11 +25,11 @@
 - LatvianModder     (Perms: Write to some Infrastructure)
 - LexManos          (Perms: Owner)
 - marchermans       (Perms: Write to 15 Repos)
-- marvin-roesch     (Perms: Write to Documentation, Web)
+- marvin-roesch !   (Perms: Write to Documentation, Web)
 - Matyrobbrt        (Perms: Triage)
-- md-5              (Perms: None)
+- md-5 !            (Perms: None)
 - mezz              (Perms: Triage, Write to some Toolchain)
-- OvermindDL1       (Perms: None)
+- OvermindDL1 !     (Perms: None)
 - pupnewfster       (Perms: Triage, Write to Private)
 - RainWarrior       (Perms: Write to 15 Repos)
 - ravenbuilder934   (Perms: Triage)
@@ -49,7 +49,7 @@
 - AterAnimAvis
 - Curle
 - sciwhiz12
-- SmokeySalmon
+- SmokeySalmon ?
 - Unbekannt
 
 ### ModLauncher Team
@@ -62,15 +62,15 @@
 - Lex
 - Orion
 - sciwhiz12
-- zml
+- zml ?
 
 ### Contributor
 
-- boq
-- cojo
+- boq ?
+- cojo ?
 - covers
 - JDLogic
-- JoJoModding
+- JoJoModding ?
 - Lat
 - Tahg
 
@@ -80,16 +80,16 @@
 - AbrarSyed
 - amadornes
 - Bloodshot
-- boq
-- coehlrich
-- cojo
-- Direwolf20
+- boq ?
+- coehlrich ?
+- cojo ?
+- Direwolf20 ?
 - fry
 - kashike
 - KingLemming
-- Mumfrey
-- peterix
-- ProfMobius
+- Mumfrey ?
+- peterix ?
+- ProfMobius ?
 - SizableShrimp
 - TamasHenning
 
@@ -98,8 +98,8 @@
 - Curle
 - diesieben07
 - sciwhiz12
-- senox13
-- Shroom Agent
+- senox13 ?
+- Shroom Agent ?
 
 ### Triage Team
 
