@@ -87,6 +87,16 @@ His role today is as one of the developers of the McModLauncher ecosystem that F
 
 ## Triage Team
 
+### sciwhiz12
+
+sciwhiz joined the team mostly passively, simply being a member of the community and helping out whenever possible. His answers to questions are always of a high quality, his investigations into problems always thorough, and his review of others' work always comprehensive and valuable.
+
+He joined the team before the application system was created, getting involved with as much as possible with everything the team was struggling to deal with, greatly lessening the workload for the rest of us.
+
+His work in the community is immense; he is one of the core team members of the Parchment project that adds documentation and parameters to the deobfuscated Minecraft code, is the lead admin of the Forge Community Wiki, and is continually helping out with other related communities, such as MMD.
+
+Today, he is one of our three Senior Triage team members, making decisions on contributions and features, categorizing issues and helping distribute the workload to others.
+
 ### AshersLab
 
 Ashers joined the team through the Forge Annual Parley of 2020 (FAP20, as we call it).
@@ -94,7 +104,7 @@ It was announced that Forge was, at the time, in need of extra triage team membe
 
 Ashers was accepted on the basis that they had already been a positively contributing member of the community; their knowledge of modding stemming from their experience on the Minecolonies mod made them an excellent helper, and their code review was excellent.
 
-Ashers quickly moved into more of a moderator role, due to time constraints from work and their personality being far more relaxed and forgiving, something we wanted for our moderation team at the time.
+Ashers quickly moved into more of a moderator role, due to time constraints from work preventing active triage work, and their personality was far more relaxed and forgiving, something we wanted for our moderation team at the time. Ashers' timezone also contributed to being able to monitor the community 24/7, which is a great help for us.
 
 Today, he is one of several of our moderators keeping the community spaces relaxed and friendly.
 
@@ -108,6 +118,13 @@ Eventually, Orion pioneered the change to a TeamCity CI system, a huge migration
 
 With Orion's work on the toolchain, rendering expertise, and knowledge of necessary infrastructure systems, he came to be a dependable member of the team.
 
+### ChampionAsh5357
+
+Champ joined the team through the application system, citing his prior work for the documentation (both the official ReadTheDocs page and the unofficial Forge Community Wiki) and his interest in language loaders as his reason for joining.
+
+He has been a valuable member of the team, fixing inaccuracies and insufficiencies in our documentation with dilligence and speed when nobody else is available, and his work on modding in other languages via his example mods is valuable to everyone interested in experimenting with modding in any form.
+
+Today, he remains as one of our most valuable triage team members and documentation maintainers.
 
 ## Collaborators
 
@@ -119,9 +136,21 @@ He is currently a moderator in our communities.
 
 `<filler>` Illy was born 10,000 years ago before the age of modern man. Born on the tallest mountain on the highest peak when the sun was at it's highest. An oracle came forth and said "This child shall be a forge contributor" to which the the child's parents asked "The fuck is forge? Reginald are you drunk? You have to lay off the hooch man" to which Reginald replied "I don't need to lay off you lay off!" but little did they know that Reginald was right and Illy spent the next 10 millennia honing their skills to lurk in the forge discord `</filler>`
 
+### coehlrich
 
+coehlrich's first introduction to the team was when AshersLab (one of our main moderators) joined a server that coehlrich had been helping with; he ended up hanging around the Forge communities more, and eventually submitted a high quality feature called Client Commands.
 
+This sudden contribution was noticed, and coehlrich was involved with our update process very soon after, his work leading him to create an automated Github Actions workflow for updating the MCPConfig toolchain underlying Forge to a new version of the game very quickly.
 
+This Github Actions workflow got coehlrich onto the toolchain team, where he now helps out with all infrastructure and updating work.
+
+### SizableShrimp
+
+Shrimp started contributing fixes to our toolchain; first solving a couple of issues we were having with ForgeGradle. FG is a notoriously confusing codebase for new developers, so he was very quickly brought into the team in a more permanent capacity to help out.
+
+He submitted a formal application to join the triage team, citing his existing work and interest in the supporting projects as the primary reason for wanting to contribute further.
+
+Today, he's one of the most valuable developers working on the toolchain, and helping update Forge every release cycle.
 
 
 ## Discord Users
