@@ -83,6 +83,15 @@ He also influenced a lot of other systems in the modding world; he consulted wit
 
 His role today is as one of the developers of the McModLauncher ecosystem that Forge is built on top of, the Mod Loader that is ultimately of his own design, and is one of the core maintainers keeping Forge running.
 
+### Curle
+
+Curle first appeared in the #minecraftforge IRC channel before moving on, later returning to Discord in 2018, helping out other modders in a casual fashion. They gained interest in the efforts of backporting the fresh ForgeGradle 3 toolchain to older versions of Minecraft, and took the lead on MCPConvert and surrounding efforts.
+
+Curle joined the Forge team in an official capacity in 2020. They quickly learned how to pass communication between the Core team and that of the public eye, and became the de-facto Triager of the project, ensuring high quality contributions before they were ever seen by the Core team. This change in the purpose of the Triage team saw a large boost in productivity.
+
+One of their first contributions was the team application system that saw a large number of people added to the team voluntarily, rather than through pure chance. This coincided with the separation of the Triage team into two roles, lessening the work load for newer members of the team.
+
+Today, Curle is the Triage team leader and public communicator for all things Forge. They have spearheaded efforts such as streamlining communication through the Forge Update Network project, optimizing team workflows, and faciliating the creation of both the Forge Blog and ForgeJAM.
 
 
 ## Triage Team
