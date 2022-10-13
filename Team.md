@@ -1,4 +1,4 @@
-## Github Users
+## Team breakdown
 ```
 - AbrarSyed         (Perms: Write to Documentation)
 - Actuarius         (Perms: Write to 21 Repos)
@@ -41,6 +41,19 @@
 - tterrag1098       (Perms: Write to 30 Repos)
 - Unbekannt1998     (Perms: Triage)
 - Unnoen            (Perms: Triage, Write to Private)
+
+- SmokeySalmon      (Team: RetroGradle)
+- zml               (Team: ModLauncher)
+- boq               (Team: Contributor / Problem Causer)
+- cojo              (Team: Contributor / Problem Causer)
+- JoJoModding       (Team: Contributor)
+- coehlrich         (Team: Collaborator)
+- Direwolf20        (Team: Collaborator)
+- Mumfrey           (Team: Collaborator)
+- Peterix           (Team: Collaborator)
+- ProfMobius        (Team: Collaborator)
+- senox13           (Team: Superhelper)
+- Shroom Agent      (Team: Superhelper)
 ```
 
 # Team Stories
