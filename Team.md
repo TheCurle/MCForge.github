@@ -50,7 +50,7 @@
 - coehlrich         (Team: Collaborator)
 - Direwolf20        (Team: Collaborator)
 - Mumfrey           (Team: Collaborator)
-- Peterix           (Team: Collaborator)
+- Peterix           (Team: Collaborator / Problem Causer)
 - ProfMobius        (Team: Collaborator)
 - senox13           (Team: Superhelper)
 - Shroom Agent      (Team: Superhelper)
